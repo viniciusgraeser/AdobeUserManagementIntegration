@@ -351,3 +351,5 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+
+AdobeUserManagementIntegration/obj/Debug/netcoreapp3.1/AdobeUserManagementIntegration.csprojAssemblyReference.cache

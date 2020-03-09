@@ -1,0 +1,40 @@
+{
+  "profiles": {
+    "Staging": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ClientID": "Seu ClientID na Adobe",
+        "TechnicalAccountID": "Seu TechnicalAccountID na Adobe",
+        "ClientSecret": "Seu ClientSecret na Adobe",
+        "Certificate": "Diretório onde fica o seu certificado .pfx",
+        "CertificatePassword": "Senha referente ao seu certificado .pfx",
+        "OrganizationID": "Seu OrganizationID na Adobe",
+        "Ambiente": "Staging"
+      }
+    },
+    "Production": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ClientID": "Seu ClientID na Adobe",
+        "TechnicalAccountID": "Seu TechnicalAccountID na Adobe",
+        "ClientSecret": "Seu ClientSecret na Adobe",
+        "Certificate": "Diretório onde fica o seu certificado .pfx",
+        "CertificatePassword": "Senha referente ao seu certificado .pfx",
+        "OrganizationID": "Seu OrganizationID na Adobe",
+        "Ambiente": "Production"
+      }
+    },
+    "Development": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ClientID": "Seu ClientID na Adobe",
+        "TechnicalAccountID": "Seu TechnicalAccountID na Adobe",
+        "ClientSecret": "Seu ClientSecret na Adobe",
+        "Certificate": "Diretório onde fica o seu certificado .pfx",
+        "CertificatePassword": "Senha referente ao seu certificado .pfx",
+        "OrganizationID": "Seu OrganizationID na Adobe",
+        "Ambiente": "Development"
+      }
+    }
+  }
+}

@@ -6,4 +6,13 @@
     <Configurations>Debug;Release;DEV;QA;PROD;PROD</Configurations>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="jose-jwt" Version="2.5.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="refit" Version="5.0.23" />
+  </ItemGroup>
+
 </Project>

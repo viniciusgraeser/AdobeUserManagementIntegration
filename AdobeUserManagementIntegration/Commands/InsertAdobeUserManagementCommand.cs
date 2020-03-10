@@ -36,6 +36,6 @@ namespace AdobeUserManagementIntegration.Commands
     public class Add
     {
         [JsonProperty("group")]
-        public static List<string> Group => new List<string> { "Nome do grupo a ser inserido o usuário." };
+        public static List<string> Group => new List<string> {"Nome do grupo a ser inserido o usuário."};
     }
 }

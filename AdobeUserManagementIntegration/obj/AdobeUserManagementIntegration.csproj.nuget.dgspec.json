@@ -49,6 +49,14 @@
               "target": "Package",
               "version": "[2.9.8, )"
             },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[5.0.23, )"
+            },
             "jose-jwt": {
               "target": "Package",
               "version": "[2.5.0, )"

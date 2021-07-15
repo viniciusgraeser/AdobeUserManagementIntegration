@@ -353,3 +353,5 @@ MigrationBackup/
 .ionide/
 
 AdobeUserManagementIntegration/obj/Debug/netcoreapp3.1/AdobeUserManagementIntegration.csprojAssemblyReference.cache
+
+AdobeUserManagementIntegration/obj/
